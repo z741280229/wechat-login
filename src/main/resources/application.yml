@@ -1,0 +1,9 @@
+server:
+  port: 80
+wx:
+  open:
+    config:
+      appid: wx7287a60bb700fd21
+      secret: 1ef8755f92bebae8ad7bab432ba29cbf
+      redirectUrl: http://www.txjava.cn/wxCallBack
+      csrfKey: WeChat_WxJava_Demo
